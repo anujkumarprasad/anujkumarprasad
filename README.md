@@ -70,24 +70,6 @@ My **own Android WebDAV server app** is the heart of the setup. **3 devices** (p
     <img src="assets/selfhosted-light.svg" alt="Self-hosted sync architecture" width="90%" />
   </a>
 </p>
-| 🧩 Service | 🔧 Tool | 💻 Runs on | 🔄 Syncs via | |---|---|---|---| | 📝 Notes | [Joplin](https://joplinapp.org/) | Phone · Laptop · PC | WebDAV (my app) | | ✅ Tasks | [Super Productivity](https://super-productivity.com/) | Phone · Laptop · PC | WebDAV (my app) | | 🔖 Bookmarks | [Floccus](https://floccus.org/) | Phone · Laptop · PC browsers | WebDAV (my app) | | 🌐 Remote access | [Tailscale](https://tailscale.com/) | All devices | Private mesh VPN |
-📚 Learning roadmap
-Stage 	Topic 	Progress
-Now (Sem 3) 	🐍 Python, NumPy, Pandas, Matplotlib 	▰▰▰▰▰▱▱▱
-Now (Sem 3) 	🗄️ SQL, MongoDB 	▰▰▱▱▱▱▱▱
-Next 	🐧 Deep Linux 	▰▰▰▱▱▱▱▱
-Next 	🐳 Docker 	▰▱▱▱▱▱▱▱
-Later 	🔁 CI/CD · ☸️ Kubernetes 	▱▱▱▱▱▱▱▱
-Later 	🛡️ DevSecOps · 🤖 MLOps 	▱▱▱▱▱▱▱▱
-| 🧩 Service | 🔧 Tool | 💻 Runs on | 🔄 Syncs via | |---|---|---|---| | 📝 Notes | [Joplin](https://joplinapp.org/) | Phone · Laptop · PC | WebDAV (my app) | | ✅ Tasks | [Super Productivity](https://super-productivity.com/) | Phone · Laptop · PC | WebDAV (my app) | | 🔖 Bookmarks | [Floccus](https://floccus.org/) | Phone · Laptop · PC browsers | WebDAV (my app) | | 🌐 Remote access | [Tailscale](https://tailscale.com/) | All devices | Private mesh VPN |
-📚 Learning roadmap
-Stage 	Topic 	Progress
-Now (Sem 3) 	🐍 Python, NumPy, Pandas, Matplotlib 	▰▰▰▰▰▱▱▱
-Now (Sem 3) 	🗄️ SQL, MongoDB 	▰▰▱▱▱▱▱▱
-Next 	🐧 Deep Linux 	▰▰▰▱▱▱▱▱
-Next 	🐳 Docker 	▰▱▱▱▱▱▱▱
-Later 	🔁 CI/CD · ☸️ Kubernetes 	▱▱▱▱▱▱▱▱
-Later 	🛡️ DevSecOps · 🤖 MLOps 	▱▱▱▱▱▱▱▱
 
 ## ✨ Style
 > Practical builder 🔨 · Self-learner 📖 · Loves self-hosting & automation 🏠
