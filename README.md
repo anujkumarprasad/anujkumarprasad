@@ -8,9 +8,9 @@
 [![Linux](https://img.shields.io/badge/Linux-2--3%20yrs-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/anujkumarprasad?tab=repositories)
 [![BCA](https://img.shields.io/badge/BCA-MAKAUT%20Sem%203-blue?style=for-the-badge)](https://anujkp.dev)
 
-🌐 [anujkp.dev](https://anujkp.dev) · ☕ [Gitea](https://git.anujkp.dev/anujkp)
+🌐 [anujkp.dev](https://anujkp.dev) · ☕ [Gitea](https://git.anujkp.dev/anujkp?tab=repositories)
 
-_Last updated: 8 Nov 2026_
+_Last updated: 24 Nov 2026_
 
 </div>
 
