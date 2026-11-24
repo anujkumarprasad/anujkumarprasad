@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Anuj+Kumar+Prasad)](https://git.io/typing-svg)
 
-### Aspiring **DevOps / DevSecOps / MLOps Engineer** ⚙️🛡️🤖
+### Aspiring **DevOps / DevSecOps / MLOps Engineer**
 
 [![Open to](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge)](https://anujkp.dev)
 [![Linux](https://img.shields.io/badge/Linux-2--3%20yrs-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/anujkumarprasad?tab=repositories)
 [![BCA](https://img.shields.io/badge/BCA-MAKAUT%20Sem%203-blue?style=for-the-badge)](https://anujkp.dev)
 
-🌐 [anujkp.dev](https://anujkp.dev) · 🐙 [GitHub](https://github.com/anujkumarprasad)
+🌐 [anujkp.dev](https://anujkp.dev) · ☕ [Gitea](https://git.anujkp.dev/anujkp)
 
 _Last updated: 8 Nov 2026_
 
@@ -42,8 +42,8 @@ _Last updated: 8 Nov 2026_
 | # | Project | Stack | Highlight |
 |---|---|---|---|
 | 1 | 📱 [**WebDAV Server for Android**](https://github.com/anujkumarprasad/webdav-server-apk) | [Kotlin](https://kotlinlang.org/), Compose, [Ktor](https://ktor.io/) | Phone → private WebDAV sync server · 🏅 **HACKHAZARDS '26 top 4%** |
-| 2 | ✅ [**Nebula Task Manager**](https://github.com/anujkumarprasad?tab=repositories) | [React 19](https://react.dev/), TS, [Bun](https://bun.sh/), [Elysia](https://elysiajs.com/), [SQLite](https://www.sqlite.org/) | Local-first sync + [Groq AI](https://groq.com/) prioritising · 🥈 **Prabuddha 2026** |
-| 3 | 🔬 [**Just For Science Website**](https://github.com/anujkumarprasad?tab=repositories) | HTML/CSS, SEO | Local-SEO site on [Cloudflare Pages](https://pages.cloudflare.com/) |
+| 2 | ✅ [**Nebula Task Manager**](https://github.com/anujkumarprasad/nebula-task-manager) | [React 19](https://react.dev/), TS, [Bun](https://bun.sh/), [Elysia](https://elysiajs.com/), [SQLite](https://www.sqlite.org/) | Local-first sync + [Groq AI](https://groq.com/) prioritising · 🥈 **Prabuddha 2026** |
+| 3 | 🔬 [**Just For Science Website**](https://justforscience.pages.dev) | HTML/CSS, SEO | Local-SEO site on [Cloudflare Pages](https://pages.cloudflare.com/) |
 
 ## 🏆 Achievements
 | 🏅 | Event | Result |
@@ -55,10 +55,10 @@ _Last updated: 8 Nov 2026_
 ## 📜 Certifications
 | 🎓 Certificate | Issuer | Date |
 |---|---|---|
-| [OCI 2025 Generative AI Professional](https://www.credly.com/org/oracle/badge) | Oracle | 31 Oct 2025 |
-| [OCI 2025 AI Foundations Associate](https://www.credly.com/org/oracle/badge) | Oracle | 26 Oct 2025 |
-| AI Prompting for Everyone | [DeepLearning.AI](https://www.deeplearning.ai/) | 26 Jul 2026 |
-| AI and Public Health | [DeepLearning.AI](https://www.deeplearning.ai/) | 31 Jul 2026 |
+| [OCI 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=69D020B7DF343CE64CB5D87663F7D73F5DD633BFAB170C2BDF97235EC0CD7BFD) | Oracle | 31 Oct 2025 |
+| [OCI 2025 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB096DBC9D0BF7E5EDDB9AE92A2D8D9704BAED27045C5D656F33B7927C7EE48E) | Oracle | 26 Oct 2025 |
+| AI Prompting for Everyone | [DeepLearning.AI](https://www.deeplearning.ai/certificates/60bbc018-776a-4f78-9c79-b0d71c913dc1) | 26 Jul 2026 |
+| AI and Public Health | [DeepLearning.AI](https://www.deeplearning.ai/certificates/945de736-6e58-4666-b500-39abfd404816) | 31 Jul 2026 |
 
 ---
 
@@ -76,4 +76,4 @@ My **own Android WebDAV server app** is the heart of the setup. **3 devices** (p
 > No LeetCode grind. I prefer [KodeKloud](https://kodekloud.com/), [KillerCoda](https://killercoda.com/) and real projects.
 
 ---
-<div align="center">⭐ Open to internships — say hi at <a href="https://anujkp.dev">anujkp.dev</a> ⭐</div>
+<div align="center">⭐ Open to internships — say hi at <a href="mailto:admin@anujkp.dev">admin@anujkp.dev</a> ⭐</div>
